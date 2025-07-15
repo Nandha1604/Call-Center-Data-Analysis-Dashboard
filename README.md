@@ -1,2 +1,1 @@
-# Call-Center-Data-Analysis-Dashboard
-I developed a comprehensive project in Excel,creating multiple dashboards and tables to analyze the data.This process involved several stages,including data preprocessing,data cleaning,and data visualization. 
+This project represents a complete data analysis process using Microsoft Excel. The analysis focuses on understanding patterns, trends, and actionable insights from structured data. Excel tools such as formulas, pivot tables, and charts are used extensively.
