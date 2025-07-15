@@ -13,5 +13,21 @@ This project represents a complete data analysis process using Microsoft Excel. 
 - Pivot Tables and Pivot Charts
 - Chart Types: Bar, Line, Pie, Clustered Column
 - Data Filtering and Conditional Formatting
+## Data Analysis Process
+1. **Data Cleaning**
+- Removed duplicates and missing values
+- Corrected inconsistent data entries
+- Converted data types for accurate calculations
+2. **Exploratory Data Analysis (EDA)**
+- Summarized key metrics (e.g., totals, averages)
+- Identified trends and outliers
+- Used conditional formatting to highlight key data
+3. **Pivot Table Reporting**
+- Created multiple pivot tables for region-wise and category-wise summaries
+- Analyzed trends over time
+4. **Data Visualization**
+- Built charts to visually represent patterns
+- Customized graphs for clarity and impact
+
 
 
