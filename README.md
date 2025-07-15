@@ -30,6 +30,12 @@ This project represents a complete data analysis process using Microsoft Excel. 
 - Customized graphs for clarity and impact
 ## DashBoard Interaction
 - DashBoard Interaction <a href="https://github.com/Nandha1604/Call-Center-Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+## Sample Insights
+- Call Count By Month wise.
+- Region B consistently underperforms across all months.
+- Customers how many Ratings give The Call Center.
+- Peak sales occurred in the month of December.
+
 
 
 
