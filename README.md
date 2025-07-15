@@ -28,6 +28,9 @@ This project represents a complete data analysis process using Microsoft Excel. 
 4. **Data Visualization**
 - Built charts to visually represent patterns
 - Customized graphs for clarity and impact
+## DashBoard Interaction
+- DashBoard Interaction <a href="https://github.com/Nandha1604/Call-Center-Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
 
 
 
