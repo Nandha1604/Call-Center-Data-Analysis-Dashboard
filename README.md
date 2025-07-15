@@ -1,5 +1,7 @@
 ## Call-Center-Data-Analysis
 This project represents a complete data analysis process using Microsoft Excel. The analysis focuses on understanding patterns, trends, and actionable insights from structured data. Excel tools such as formulas, pivot tables, and charts are used extensively.
+## Dataset Used
+
 ## Project Objectives
 - Clean and structure new data for analysis
 - Summarize key metrics using formulas and pivot tables
