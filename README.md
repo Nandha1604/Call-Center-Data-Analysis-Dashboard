@@ -5,4 +5,11 @@ This project represents a complete data analysis process using Microsoft Excel. 
 - Summarize key metrics using formulas and pivot tables
 - Create meaningful visualizations to support decision-making
 - Derive and document key business insights
+## Tools & Techniques Used
+- Microsoft Excel 2016 or later
+- Functions: SUMIF, COUNTIF, IF, AVERAGE, TEXT, CONCATENATE
+- Pivot Tables and Pivot Charts
+- Chart Types: Bar, Line, Pie, Clustered Column
+- Data Filtering and Conditional Formatting
+
 
